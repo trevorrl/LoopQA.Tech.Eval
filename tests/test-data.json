@@ -1,0 +1,36 @@
+{
+  "web-app": [
+    {
+      "name": "Implement user authentication",
+      "column": "To Do",
+      "tags": ["Feature", "High Priority"]
+    },
+    {
+      "name": "Fix navigation bug",
+      "column": "To Do",
+      "tags": ["Bug"]
+    },
+    {
+      "name": "Design system updates",
+      "column": "In Progress",
+      "tags": ["Design"]
+    }
+  ],
+  "mobile-app": [
+    {
+      "name": "Push notification system",
+      "column": "To Do",
+      "tags": ["Feature"]
+    },
+    {
+      "name": "Offline mode",
+      "column": "In Progress",
+      "tags": ["Feature", "High Priority"]
+    },
+    {
+      "name": "App icon design",
+      "column": "Done",
+      "tags": ["Design"]
+    }
+  ]
+}
